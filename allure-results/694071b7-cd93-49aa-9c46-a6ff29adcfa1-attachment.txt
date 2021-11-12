@@ -1,0 +1,38 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @12-11-2021 19:26:33.0049 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @12-11-2021 19:26:33.0153 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @12-11-2021 19:26:33.0157 PM
+[ReportManager] Successfully Opened Google Chrome. @12-11-2021 19:26:36.0558 PM
+[ReportManager] Target URL: [https://the-internet.herokuapp.com/] @12-11-2021 19:26:36.0594 PM
+[ReportManager] Initial URL: [data:,] @12-11-2021 19:26:36.0687 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211112-192631", Target File: "\1636737999206_useropenurl.gif"]. @12-11-2021 19:26:39.0525 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://the-internet.herokuapp.com/]. @12-11-2021 19:26:39.0888 PM
+[ReportManager] Successfully created attachment [Animated Gif - useropenurl] @12-11-2021 19:26:39.0895 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.Dynamictest.userdunamicloadtest]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211112-192631", Target File: "\1636738000810_userdunamicloadtest.gif"]. @12-11-2021 19:26:40.0902 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Dynamic Loading]. @12-11-2021 19:26:42.0201 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Example 2: Element rendered after the fact]. @12-11-2021 19:26:43.0549 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Start]. @12-11-2021 19:26:44.0695 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Hello World!]. @12-11-2021 19:26:50.0258 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Hello World!] and Actual [Hello World!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @12-11-2021 19:26:50.0276 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Hello World!]. @12-11-2021 19:26:50.0709 PM
+[ReportManager] Loaded Shared OpenCV @12-11-2021 19:26:51.0508 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Hello World!' for the 'text' attribute, element locator 'By.xpath: //*[@id="finish"]/h4'] and Actual [Hello World!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @12-11-2021 19:26:51.0952 PM
+[ReportManager] Successfully created attachment [Screenshot - 1636738010935_userdunamicloadtest_ValidateElementAttribute_passed] @12-11-2021 19:26:51.0982 PM
+[ReportManager] Successfully created attachment [Animated Gif - userdunamicloadtest] @12-11-2021 19:26:51.0991 PM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @12-11-2021 19:26:53.0737 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.3.20210519]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

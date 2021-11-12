@@ -1,0 +1,9 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @12-11-2021 19:26:33.0049 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @12-11-2021 19:26:33.0153 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @12-11-2021 19:26:33.0157 PM
+[ReportManager] Successfully Opened Google Chrome. @12-11-2021 19:26:36.0558 PM
+[ReportManager] Target URL: [https://the-internet.herokuapp.com/] @12-11-2021 19:26:36.0594 PM
+[ReportManager] Initial URL: [data:,] @12-11-2021 19:26:36.0687 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211112-192631", Target File: "\1636737999206_useropenurl.gif"]. @12-11-2021 19:26:39.0525 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://the-internet.herokuapp.com/]. @12-11-2021 19:26:39.0888 PM
+[ReportManager] Successfully created attachment [Animated Gif - useropenurl] @12-11-2021 19:26:39.0895 PM

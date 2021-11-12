@@ -1,0 +1,16 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.Dynamictest.userdunamicloadtest]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20211112-192631", Target File: "\1636738000810_userdunamicloadtest.gif"]. @12-11-2021 19:26:40.0902 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Dynamic Loading]. @12-11-2021 19:26:42.0201 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Example 2: Element rendered after the fact]. @12-11-2021 19:26:43.0549 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Start]. @12-11-2021 19:26:44.0695 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Hello World!]. @12-11-2021 19:26:50.0258 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Hello World!] and Actual [Hello World!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @12-11-2021 19:26:50.0276 PM
+[ReportManager] Element Action [GetText] successfully performed. With the following test data [Hello World!]. @12-11-2021 19:26:50.0709 PM
+[ReportManager] Loaded Shared OpenCV @12-11-2021 19:26:51.0508 PM
+[ReportManager] Assertion [ValidateElementAttribute] PASSED. Expected [Value Should be 'Hello World!' for the 'text' attribute, element locator 'By.xpath: //*[@id="finish"]/h4'] and Actual [Hello World!]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @12-11-2021 19:26:51.0952 PM
+[ReportManager] Successfully created attachment [Screenshot - 1636738010935_userdunamicloadtest_ValidateElementAttribute_passed] @12-11-2021 19:26:51.0982 PM
+[ReportManager] Successfully created attachment [Animated Gif - userdunamicloadtest] @12-11-2021 19:26:51.0991 PM
